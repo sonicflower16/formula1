@@ -172,7 +172,8 @@ hr{
     
 }
 .col{
-    height: 400px;
+    height: 500px;
+    padding: 50px;
 }
 .pic1,.pic3{
     background-image: url(pic13.jpg);
@@ -186,6 +187,22 @@ hr{
     font-weight: bold;
     text-transform: uppercase;
 }
-.text1{
-    
+.text{
+    font-size: 13px;
+}
+.big-number{
+    color: white;
+    font-size: 100px;
+    text-shadow: -1px -1px 3px #5e5d5d;
+}
+.fifth-part{
+    background-color: rgb(29,29,29);
+    color: white;
+}
+second-title{
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 40px;
+    margin-bottom: 10px;
 }
