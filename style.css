@@ -87,17 +87,9 @@ hr{
     padding: 6px 15px;
 }
 .btn-two{
-    /*display: flex;
-     justify-content: center;
-    align-items: center;*/
     padding: 6px 30px; 
     text-align: center;
     margin-left: 45%;
-}
-#bottom{
-    background-color: rgb(58, 58, 58);
-    color: white;
-    margin-bottom: 0px;
 }
 .footer1{
     padding-top: 20px;
@@ -131,10 +123,6 @@ hr{
     display: flex;
     flex-wrap: wrap;
 }
-/*.lady{
-     transform: rotate(-10deg); 
-    float: left;
-}*/
 .side-img{
     float: left;
     flex-basis: 50%;
